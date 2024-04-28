@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "si.bismuth.ResourceLoaderFix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CraftingManagerMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
